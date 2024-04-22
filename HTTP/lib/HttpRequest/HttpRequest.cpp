@@ -33,4 +33,3 @@ char* HttpRequest::toString() {
     
     return buffer;
 }
-c
